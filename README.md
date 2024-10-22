@@ -17,4 +17,4 @@ A landing page apresenta informações sobre Felipe Vieira, um jovem jogador de 
 - JavaScript
 - Google Fonts
 
-https://github.com/seu_usuario/nome_do_repositorio.git
+https://xavibarbahacker.github.io/Felipejogador/
